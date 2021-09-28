@@ -1,2 +1,2 @@
-# cv
+# resume
 my portfolio cv
